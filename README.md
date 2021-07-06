@@ -5,7 +5,7 @@
 *Pasate a ver algunos de sus proyectos y dejale algunas sugerencias que lo puedan ayudar a crecer profesionalmente, él sabrá cómo agradecerte. 👍*
 
 
-#### Sigueme en mis redes sociales: 
+#### Área para contactar a Juan: 
 * <img src="https://img.icons8.com/color/20/000000/twitter--v1.png"/> Twitter: <a href="https://twitter.com/juanmontoyagi" target="_blank">@juanmontoyagi</a>
 * <img src="https://img.icons8.com/color/20/000000/linkedin.png"/> LinkedIn: <a href="https://www.linkedin.com/in/juan-montoya-034898213" target="_blank">Juan Montoya</a>
 * <img src="https://img.icons8.com/color/20/000000/gmail--v2.png"/> Email: <a href="" target="_blank">juanmontoya015@gmail.com</a>
