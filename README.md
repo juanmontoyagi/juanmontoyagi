@@ -1,9 +1,12 @@
 ### ¡Hola conoce a Juan! 👋
 
+<hr>
+
 *Juan es un estudiante de Ingeniería de Software apasionado por la innovación tecnológica, que desde hace más de un año ha trabajado con zonas relacionadas a las áreas de Tecnologías de la Información (TI). Ahora Juan busca generar nuevos retos con proyectos en sectores de desarrollo en programas empresariales y aplicativos web usando tecnologías como Java, SpringBoot y Angular.*
 
 *Pasate a ver algunos de sus proyectos y dejale algunas sugerencias que lo puedan ayudar a crecer profesionalmente, él sabrá cómo agradecerte. 👍*
 
+<hr>
 
 #### Área para contactar a Juan: 
 * <img src="https://img.icons8.com/color/20/000000/twitter--v1.png"/> Twitter: <a href="https://twitter.com/juanmontoyagi" target="_blank">@juanmontoyagi</a>
