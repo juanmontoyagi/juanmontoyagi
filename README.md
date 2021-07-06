@@ -8,7 +8,7 @@
 #### Sigueme en mis redes sociales: 
 * <img src="https://img.icons8.com/color/20/000000/twitter--v1.png"/> Twitter: <a href="https://twitter.com/juanmontoyagi" target="_blank">@juanmontoyagi</a>
 * <img src="https://img.icons8.com/color/20/000000/linkedin.png"/> LinkedIn: <a href="https://www.linkedin.com/in/juan-montoya-034898213" target="_blank">Juan Montoya</a>
-
+* <img src="https://img.icons8.com/color/20/000000/gmail--v2.png"/> Email: <a href="" target="_blank">juanmontoya015@gmail.com</a>
 
 ![img-under-construction-02](https://user-images.githubusercontent.com/37417581/124540490-1d138580-dde5-11eb-8b17-2ec92af4798d.png)
 
